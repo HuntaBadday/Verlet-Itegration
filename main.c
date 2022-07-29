@@ -103,7 +103,7 @@ int main(){
 	
 	// Initialize Raylib window
 	InitWindow(width, height, "Verlet Integration");
-	SetTargetFPS(30);
+	SetTargetFPS(60);
 	
 	// Mian loop
 	while(!WindowShouldClose()){
